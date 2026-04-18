@@ -55,9 +55,9 @@ Chúng tôi tin rằng sự đổi mới thực sự phải bắt nguồn từ v
 
 ## 🤝 Đóng góp (Contributing)
 
-We welcome contributions from cryptographers, developers, and policy makers worldwide. Please refer to our CONTRIBUTING.md (https://github.com/phthuongcc/thuong-ho-protocol/blob/main/CONTRIBUTING.md) for the "Heritage Merge" process.
+We welcome contributions from cryptographers, developers, and policy makers worldwide. Please refer to our [Contributing Guide](./CONTRIBUTING.md) for the "Heritage Merge" process.
 
-Chúng tôi trân trọng mọi đóng góp từ các nhà mật mã học, lập trình viên và các nhà hoạch định chính sách toàn cầu. Vui lòng tham khảo quy trình "Hợp lưu Di sản" tại CONTRIBUTING.md (https://github.com/phthuongcc/thuong-ho-protocol/blob/main/CONTRIBUTING.md).
+Chúng tôi trân trọng mọi đóng góp từ các nhà mật mã học, lập trình viên và các nhà hoạch định chính sách toàn cầu. Vui lòng tham khảo [Hướng dẫn Đóng góp Di sản](./CONTRIBUTING.md) để hiểu về quy trình "Hợp lưu Di sản".
 
 -----
 
