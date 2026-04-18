@@ -1,7 +1,8 @@
-*/
-Cấu trúc dữ liệu (JSON Schemas / Types)
-Định nghĩa cấu trúc của một Green_ODA_Transaction (Giao dịch ODA Xanh) hoặc Skiff_Node_Proof.
-/*
+
+{
+  "_comment": "Cấu trúc dữ liệu (JSON Schemas / Types)",
+  "_comment": "Định nghĩa cấu trúc của một Green_ODA_Transaction (Giao dịch ODA Xanh) hoặc Skiff_Node_Proof."
+}
 
 {
   "protocol": "Thuong Ho Protocol",
