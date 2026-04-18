@@ -64,7 +64,7 @@ Chúng tôi trân trọng mọi đóng góp từ các nhà mật mã học, lậ
 ## 📄 Tài liệu (Documentation)
 
   * **arXiv Preprint:** [Link coming soon - 04/2026]
-  * **Executive Summary:** Available in `📂 02-international-en/`
+  * **Executive Summary:** Available in `📂 02-international-en/` [Executive Summary (English/Vietnamese)](./02-international-en/EXECUTIVE_SUMMARY.md)
 
 **"The river of truth flows forever."**
 **"Dòng sông sự thật chảy mãi không ngừng."**
