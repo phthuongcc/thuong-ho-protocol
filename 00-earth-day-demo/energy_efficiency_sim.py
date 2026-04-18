@@ -6,7 +6,7 @@ import math
 
 def simulate_energy_impact():
     print("="*65)
-    print("   THUONG HO PROTOCOL: GREEN TECH & EARTH IMPACT REPORT")
+    print("THUONG HO PROTOCOL: GREEN TECH & EARTH IMPACT REPORT")
     print("Goal: Visualizing CO2 reduction in decentralized verification")
     print("="*65)
     
