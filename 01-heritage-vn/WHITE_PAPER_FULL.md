@@ -1,5 +1,6 @@
 📝 Project Status & Documentation Note
-Tình trạng dự án & Ghi chú về Tài liệu
+/ Tình trạng dự án & Ghi chú về Tài liệu
+
 Note: Coming soon after Jury's Review. Early access for institutional partners is available upon request
 
 English: Due to the intensive development sprint for the [Dev.to Challenge], the comprehensive White Paper is currently in its final distillation phase. We have published the Executive Summary and Technical Pillars as a foundational framework. The full version will be officially released following the jury's feedback and community peer review to ensure the highest academic and technical standards.
