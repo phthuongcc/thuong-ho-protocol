@@ -1,0 +1,28 @@
+*/
+Cấu trúc dữ liệu (JSON Schemas / Types)
+Định nghĩa cấu trúc của một Green_ODA_Transaction (Giao dịch ODA Xanh) hoặc Skiff_Node_Proof.
+/*
+
+{
+  "protocol": "Thuong Ho Protocol",
+  "version": "1.0.0-alpha",
+  "component": "Green_ODA_Transaction",
+  "data": {
+    "header": {
+      "signature_scheme": "CRYSTALS-Dilithium-Level3",
+      "state_root_commitment": "0xabc123... (KZG/IPA)"
+    },
+    "payload": {
+      "farmer_id": "VN-MK-79-001",
+      "activity": "Mangrove_Reforestation", 
+      "value": 500.50,
+      "unit": "Carbon_Credit_Equivalent",
+      "timestamp": "2026-04-22T08:00:00Z"
+    },
+    "witness": {
+      "type": "Verkle_Proof_O(1)",
+      "data": "0xdef456...",
+      "size_kb": 1.85
+    }
+  }
+}
