@@ -1,10 +1,9 @@
-
 {
-  "_comment": "Cấu trúc dữ liệu (JSON Schemas / Types)",
-  "_comment": "Định nghĩa cấu trúc của một Green_ODA_Transaction (Giao dịch ODA Xanh) hoặc Skiff_Node_Proof."
-}
-
-{
+  "metadata": {
+    "description": "Definition of a Green ODA Transaction with Skiff Node Proof",
+    "encoding": "UTF-8",
+    "schema_reference": "https://github.com/phthuongcc/thuong-ho-protocol/schemas/v1"
+  },
   "protocol": "Thuong Ho Protocol",
   "version": "1.0.0-alpha",
   "component": "Green_ODA_Transaction",
