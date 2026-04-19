@@ -39,6 +39,6 @@ python 00-earth-day-demo/energy_efficiency_sim.py
 ## 📄 Documentation
 For a deep dive into our economic model, 5R methodology, and World Bank alignment, please refer to our technical summary:
 
-👉 **Thương Hồ Protocol White Paper v1.1 (Earth Day Edition) (./00-earth-day-demo/Thuong-Ho-Protocol_v1.1_EarthDay_Edition.pdf)**
+👉 **[Thương Hồ Protocol White Paper v1.1 (Earth Day Edition)](./00-earth-day-demo/Thuong-Ho-Protocol_v1.1_EarthDay_Edition.pdf)**
 
 Built with ❤️ for the Dev.to Earth Day Challenge.
